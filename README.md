@@ -40,6 +40,8 @@ English | [简体中文](README.zh-CN.md)
 
 - compare with clipboard
 
+  ![Alt text](https://gitee.com/tfgzs666/vscode-diff-clipboard/raw/main/docs/1.gif)
+
 ## Release Notes
 
 Please check [CHANGELOG](CHANGELOG.md)
