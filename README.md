@@ -49,5 +49,4 @@ Please check [CHANGELOG](CHANGELOG.md)
 This project's source code and documentation is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
 
 ## Recommend
-
-[string-master]: https://marketplace.visualstudio.com/items?itemName=tfgzs.string-master
+ <a href="https://marketplace.visualstudio.com/items?itemName=tfgzs.string-master">string-master</a>

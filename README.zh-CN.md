@@ -49,5 +49,4 @@
 该项目的源代码和文档是在MIT许可下授权的。详细信息请参见 [LICENSE](LICENSE) 文件.
 
 ## 推荐
-
-[string-master]: https://marketplace.visualstudio.com/items?itemName=tfgzs.string-master
+ <a href="https://marketplace.visualstudio.com/items?itemName=tfgzs.string-master">string-master</a>
